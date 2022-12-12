@@ -25,7 +25,7 @@ Technical University of Denmark
 
 2021-2023
 
-Focus: Numerical Simulation of Differential Equations \& Optimization Techniques.
+Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
 
 
 
