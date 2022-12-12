@@ -19,7 +19,7 @@ I am a dedicated and ambitious engineer within applied mathematics, who possess 
 
 # Education
 
-## M.Sc. Eng. Mathemacial Modelling and Computation
+## M.Sc. Eng. Mathematical Modelling and Computation
 
 > **Technical University of Denmark**
 > 
@@ -29,7 +29,7 @@ I am a dedicated and ambitious engineer within applied mathematics, who possess 
 
 
 
-## <a>B.Sc. Eng. Mathemacs and Technology<a>
+## <a>B.Sc. Eng. Mathematics and Technology<a>
 
 > **Technical University of Denmark**
 > 
