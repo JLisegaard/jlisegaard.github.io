@@ -13,7 +13,7 @@ I am a dedicated and ambitious engineer within applied mathematics, who possess 
 
 # Master Thesis
 
-Some Stuff
+**Title: Development of a Spectral Element Method for simlation of water waves using Incompressible Navier-Stokes Equations**
 
 * * *
 
@@ -21,7 +21,7 @@ Some Stuff
 
 ## M.Sc. Eng. Mathemacial Modelling and Computation
 
-Technical University of Denmark
+**Technical University of Denmark**
 
 2021-2023
 
@@ -31,7 +31,7 @@ Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
 
 ## B.Sc. Eng. Mathemacs and Technology
 
-Technical University of Denmark
+**Technical University of Denmark**
 
 2018-2021
 
