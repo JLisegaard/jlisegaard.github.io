@@ -57,7 +57,6 @@ Maintaining databases. Quality Control and Compliance Documentation. Assisting n
 
 <object data="https://jlisegaard.github.io/Silicom.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://jlisegaard.github.io/Silicom.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
