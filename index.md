@@ -21,25 +21,27 @@ I am a dedicated and ambitious engineer within applied mathematics, who possess 
 
 ## M.Sc. Eng. Mathemacial Modelling and Computation
 
-**Technical University of Denmark**
-
-2021-2023
-
-Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
+> **Technical University of Denmark**
+> 
+> 2021-2023
+> 
+> Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
 
 
 
 ## <a>B.Sc. Eng. Mathemacs and Technology<a>
 
-**Technical University of Denmark**
+> **Technical University of Denmark**
+> 
+> 2018-2021
 
-2018-2021
+## <a>Certifications <a>
 
-### ISO 21500 Certified 
-
-2019
-
-Project management certification.
+> **ISO 21500 Certified**
+> 
+> 2019
+> 
+> Project management certification.
 
 * * *
 
