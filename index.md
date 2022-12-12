@@ -29,13 +29,15 @@ Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
 
 
 
-## B.Sc. Eng. Mathemacs and Technology
+## <a>B.Sc. Eng. Mathemacs and Technology<!a>
 
 **Technical University of Denmark**
 
 2018-2021
 
 ### ISO 21500 Certified 
+
+2019
 
 Project management certification.
 
