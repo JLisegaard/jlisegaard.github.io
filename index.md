@@ -19,7 +19,7 @@ I am a dedicated and ambitious engineer within applied mathematics, who possess 
 
 # Education
 
-## M.Sc. Eng. Mathematical Modelling and Computation
+## <a>M.Sc. Eng. Mathematical Modelling and Computation<a>
 
 > **Technical University of Denmark**
 > 
@@ -47,7 +47,7 @@ I am a dedicated and ambitious engineer within applied mathematics, who possess 
 
 # Work experience
 
-## Silicom Denmark A/S | FPGA Solutions
+## <a>Silicom Denmark A/S | FPGA Solutions<a>
 
 **Student Assistant for Project Management**
 
