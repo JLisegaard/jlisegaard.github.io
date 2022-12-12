@@ -2,7 +2,6 @@
 layout: default
 ---
 
-* * *
 
 Thank you for entering my site. 
 
@@ -14,13 +13,11 @@ I am a dedicated and ambitious engineer within applied mathematics, who possess 
 
 # Master Thesis
 
-* * *
-
 Some Stuff
 
-# Education
-
 * * *
+
+# Education
 
 ## M.Sc. Eng. Mathemacial Modelling and Computation
 
@@ -42,6 +39,7 @@ Technical University of Denmark
 
 Project management certification.
 
+* * *
 
 # Work experience
 
