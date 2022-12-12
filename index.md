@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-Thank you for entering my site. 
+### Thank you for entering my site. 
 
 Here I will tell a bit about myself, and what I do. 
 
@@ -42,6 +42,15 @@ Project management certification.
 * * *
 
 # Work experience
+
+## Silicom Denmark A/S | FPGA Solutions
+
+**Student Assistant for Project Management**
+
+2019-
+
+Maintaining databases. Quality Control and Compliance Documentation. Assisting new product introductions and continuing development of existing products. Data analysis tasks. Production and test of FPGA cards.
+
 
 * * *
 
