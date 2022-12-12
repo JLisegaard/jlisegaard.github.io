@@ -8,14 +8,31 @@ Here I will tell a bit about myself, and what I do.
 
 I am a dedicated and ambitious engineer within applied mathematics, who possess proven project management competences. I have a strong analytical background spiced with proficient coding skills, which can be utilized to solve complex problems. I'm driven to succeed in collaboration and love to learn new stuff. 
 
+# Master Thesis
+
+Some Stuff
+
 # Education
 
 ## M.Sc. Eng. Mathemacial Modelling and Computation
 
+Technical University of Denmark
+
+2021-2023
+
+Focus: Numerical Simulation of Differential Equations \& Optimization Techniques.
 
 
 
+## B.Sc. Eng. Mathemacs and Technology
 
+Technical University of Denmark
+
+2018-2021
+
+### ISO 21500 Certified 
+
+Project management certification.
 
 
 
