@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Personal site
+<h1 style="color:white;">Personal site</h1>
 
 ### Thank you for entering my site. 
 
