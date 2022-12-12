@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 ---
 
 ## Recommendation from Silicom Denmark A/S | FPGA Solutions
