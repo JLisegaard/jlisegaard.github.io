@@ -51,14 +51,11 @@ Project management certification.
 
 Maintaining databases. Quality Control and Compliance Documentation. Assisting new product introductions and continuing development of existing products. Data analysis tasks. Production and test of FPGA cards.
 
-
+[Reccommendation from Silicom Denmark A/S](./Silicom.html).
 * * *
 
 
-<object data="https://jlisegaard.github.io/Silicom.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://jlisegaard.github.io/Silicom.pdf">
-    </embed>
-</object>
+
 
 <!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
