@@ -2,17 +2,25 @@
 layout: default
 ---
 
+* * *
+
 Thank you for entering my site. 
 
 Here I will tell a bit about myself, and what I do. 
 
 I am a dedicated and ambitious engineer within applied mathematics, who possess proven project management competences. I have a strong analytical background spiced with proficient coding skills, which can be utilized to solve complex problems. I'm driven to succeed in collaboration and love to learn new stuff. 
 
+* * *
+
 # Master Thesis
+
+* * *
 
 Some Stuff
 
 # Education
+
+* * *
 
 ## M.Sc. Eng. Mathemacial Modelling and Computation
 
@@ -34,6 +42,10 @@ Technical University of Denmark
 
 Project management certification.
 
+
+# Work experience
+
+* * *
 
 
 
