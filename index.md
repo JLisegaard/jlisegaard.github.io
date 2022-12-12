@@ -29,7 +29,7 @@ Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
 
 
 
-## <a>B.Sc. Eng. Mathemacs and Technology<!a>
+## <a>B.Sc. Eng. Mathemacs and Technology<a>
 
 **Technical University of Denmark**
 
