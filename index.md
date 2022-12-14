@@ -71,15 +71,9 @@ Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
 </details>
 
 <details>
-  <summary><strong>Number - Name</strong></summary>
-  <p> Grade:  () </p>
-  <p>  </p>
-</details>
-
-<details>
-  <summary><strong>Number - Name</strong></summary>
-  <p> Grade:  () </p>
-  <p>  </p>
+  <summary><strong>02526 - Mathematical modeling</strong></summary>
+  <p> Grade: 12 (A) </p>
+  <p> Setting up mathematical models, carry out simulations and calculations on these models, and perform a critical analysis and report the obtained results. </p>
 </details>
 
 <p>  </p>
