@@ -35,15 +35,16 @@ As an intermediate result a [poster](./NSE_Poster_linear.html) on the work for t
 > <details>
   <summary>
     _02689 - Advanced Numerical Methods for Differential Equations_
-    <span class="icon">+</span>
+    <span class="icon">👇</span>
   </summary>
   <p>
-    Grade: 12 (A)
-    
-    Spectral Methods for solving differential equations and flexible multidomain methods like Discontinuous Galerkin FEM and Spectral Element Methods. Introduced to data-driven Scientific Machine Learning methods. 
+  Grade: 12 (A)
+  
+  Spectral Methods for solving differential equations and flexible multidomain methods like Discontinuous Galerkin FEM and Spectral Element Methods. Introduced to data-driven Scientific Machine Learning methods. 
   </p>
 </details>
->  _02689 - Advanced Numerical Methods for Differential Equations_
+
+>  _02506 - Advanced image analysis_
 > > Grade: 12 (A)
 > > Spectral Methods for solving differential equations and flexible multidomain methods like Discontinuous Galerkin FEM and Spectral Element Methods. Introduced to data-driven Scientific Machine Learning methods. 
 > 
