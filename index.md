@@ -65,9 +65,9 @@ Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
 **Highlights**
 
 <details>
-  <summary><strong>Number - Name</strong></summary>
-  <p> Grade:  () </p>
-  <p>  </p>
+  <summary><strong>01227 - Graph theory</strong></summary>
+  <p> Grade: 12 (A) </p>
+  <p> Introduction to results and proof techniques in graph theory, in particular in connection with networks algorithms. </p>
 </details>
 
 <details>
@@ -91,6 +91,13 @@ Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
 2019
 
 Project Management certification. [Diploma](./PMdiploma.html).
+
+<details>
+  <summary><strong>42430 - Project Management</strong></summary>
+  <p> Grade: 12 (A) </p>
+  <p> Prepares one for active participattion in projects and critically and appropriately apply project management tools, concepts, models and theories in practice. Opens for  the opportunity to be certified according to the international project management standard (ISO 21500). </p>
+</details>
+42430	Project Management
 
 * * *
 
