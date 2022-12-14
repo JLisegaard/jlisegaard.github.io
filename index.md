@@ -91,7 +91,6 @@ Project Management certification. [Diploma](./PMdiploma.html).
   <p> Grade: 12 (A) </p>
   <p> Prepares one for active participattion in projects and critically and appropriately apply project management tools, concepts, models and theories in practice. Opens for  the opportunity to be certified according to the international project management standard (ISO 21500). </p>
 </details>
-42430	Project Management
 
 * * *
 
