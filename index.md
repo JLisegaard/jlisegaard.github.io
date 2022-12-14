@@ -27,6 +27,7 @@ As an intermediate result a [poster](./NSE_Poster_linear.html) on the work for t
 ## <a>M.Sc. Eng. Mathematical Modelling and Computation<a>
 
 **Technical University of Denmark**
+
 2021-2023
  
 Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
@@ -52,20 +53,44 @@ Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
 </details>
 
 
-
+<p>  </p>
 
 
 ## <a>B.Sc. Eng. Mathematics and Technology<a>
 
-> **Technical University of Denmark**
-> 2018-2021
+**Technical University of Denmark**
+
+2018-2021
+
+**Highlights**
+
+<details>
+  <summary><strong>Number - Name</strong></summary>
+  <p> Grade:  () </p>
+  <p>  </p>
+</details>
+
+<details>
+  <summary><strong>Number - Name</strong></summary>
+  <p> Grade:  () </p>
+  <p>  </p>
+</details>
+
+<details>
+  <summary><strong>Number - Name</strong></summary>
+  <p> Grade:  () </p>
+  <p>  </p>
+</details>
+
+<p>  </p>
 
 ## <a>Certifications <a>
 
-> **ISO 21500 Certified**
-> 2019
-> 
-> Project management certification.
+**ISO 21500 Certified**
+
+2019
+
+Project management certification.
 
 * * *
 
