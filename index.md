@@ -34,23 +34,23 @@ Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
 **Highlights**
 
 <details>
-  <summary>02689 - Advanced Numerical Methods for Differential Equations</summary>
-  <p> > Grade: 12 (A) </p>
-  <p> > Spectral Methods for solving differential equations and flexible multidomain methods like Discontinuous Galerkin FEM and Spectral Element Methods. Introduced to data-driven Scientific Machine Learning methods. </p>
+  <summary><strong>02689 - Advanced Numerical Methods for Differential Equations</strong></summary>
+  <p> Grade: 12 (A) </p>
+  <p> Spectral Methods for solving differential equations and flexible multidomain methods like Discontinuous Galerkin FEM and Spectral Element Methods. Introduced to data-driven Scientific Machine Learning methods. </p>
 </details>
 
->  _02506 - Advanced image analysis_
-> > Grade: 12 (A)
-> > Spectral Methods for solving differential equations and flexible multidomain methods like Discontinuous Galerkin FEM and Spectral Element Methods. Introduced to data-driven Scientific Machine Learning methods. 
-> 
->  _02506 - Advanced image analysis_
-> > Grade: 12 (A)
-> > Advanced methods and models for analyzing image data, and different applications of these techniques. Conventional methods and Machine Learning/Neural Network-based methods. 
-> 
->  _01622 - Advanced dynamical systems: applications in science and engineering_
-> > Grade: 12 (A)
-> > Theoretical and practical techniques to analyze simple and complex networked systems and nonlinear oscillations with engineering applications.  The analysis of dynamics characterized by periodic to aperiodic nonlinear oscillations, chaotic dynamics, and stochastic fluctuations.
->  
+<details>
+  <summary><strong>02506 - Advanced image analysis</strong></summary>
+  <p> Grade: 12 (A) </p>
+  <p> Advanced methods and models for analyzing image data, and different applications of these techniques. Conventional methods and Machine Learning/Neural Network-based methods. </p>
+</details>
+
+<details>
+  <summary><strong>01622 - Advanced dynamical systems: applications in science and engineering</strong></summary>
+  <p> Grade: 12 (A) </p>
+  <p> Theoretical and practical techniques to analyze simple and complex networked systems and nonlinear oscillations with engineering applications.  The analysis of dynamics characterized by periodic to aperiodic nonlinear oscillations, chaotic dynamics, and stochastic fluctuations. </p>
+</details>
+
 
 
 
