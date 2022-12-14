@@ -27,7 +27,6 @@ As an intermediate result a [poster](./NSE_Poster_linear.html) on the work for t
 ## <a>M.Sc. Eng. Mathematical Modelling and Computation<a>
 
 > **Technical University of Denmark**
-> 
 > 2021-2023
 > 
 > Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
@@ -35,10 +34,17 @@ As an intermediate result a [poster](./NSE_Poster_linear.html) on the work for t
 > **Highlights**
 >
 >  _02689 - Advanced Numerical Methods for Differential Equations_
-> > Hello
-> > 
-> >
->
+> > Grade: 12 (A)
+> > Spectral Methods for solving differential equations and flexible multidomain methods like Discontinuous Galerkin FEM and Spectral Element Methods. Introduced to data-driven Scientific Machine Learning methods. 
+> 
+>  _02506 - Advanced image analysis_
+> > Grade: 12 (A)
+> > Advanced methods and models for analyzing image data, and different applications of these techniques. Conventional methods and Machine Learning/Neural Network-based methods. 
+> 
+>  _01622 - Advanced dynamical systems: applications in science and engineering_
+> > Grade: 12 (A)
+> > Theoretical and practical techniques to analyze simple and complex networked systems and nonlinear oscillations with engineering applications.  The analysis of dynamics characterized by periodic to aperiodic nonlinear oscillations, chaotic dynamics, and stochastic fluctuations.
+>  
 
 
 
@@ -46,13 +52,11 @@ As an intermediate result a [poster](./NSE_Poster_linear.html) on the work for t
 ## <a>B.Sc. Eng. Mathematics and Technology<a>
 
 > **Technical University of Denmark**
-> 
 > 2018-2021
 
 ## <a>Certifications <a>
 
 > **ISO 21500 Certified**
-> 
 > 2019
 > 
 > Project management certification.
