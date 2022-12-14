@@ -18,7 +18,7 @@ I am a dedicated and ambitious engineer within applied mathematics, who possess 
 
 This project concerns developing of a Spectral Element Method for simulation of water waves using the Incompressible Navier-Stokes Equations. The method will be developed in a general Runge-Kutta setting, which allows for high-order time-stepping, high order spatial convergence and geometric flexibility. 
 
-As an intermediate result a [poster](./NSE_Poster_linear.html). on the work for the linear part was presented for the DTU 02689 class. 
+As an intermediate result a [poster](./NSE_Poster_linear.html) on the work for the linear part was presented for the DTU 02689 class. 
 
 * * *
 
@@ -31,6 +31,15 @@ As an intermediate result a [poster](./NSE_Poster_linear.html). on the work for 
 > 2021-2023
 > 
 > Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
+> 
+> **Highlights**
+>
+>  _02689 - Advanced Numerical Methods for Differential Equations_
+> >
+> > Hello
+> >
+>
+
 
 
 
