@@ -26,13 +26,9 @@ As an intermediate result a [poster](./NSE_Poster_linear.html) on the work for t
 
 ## <a>M.Sc. Eng. Mathematical Modelling and Computation<a>
 
-**Technical University of Denmark**
-
-2021-2023
+**Technical University of Denmark** (2021-2023)
  
 Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
- 
-**Highlights**
 
 <details>
   <summary><strong>02689 - Advanced Numerical Methods for Differential Equations</strong></summary>
@@ -58,11 +54,7 @@ Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
 
 ## <a>B.Sc. Eng. Mathematics and Technology<a>
 
-**Technical University of Denmark**
-
-2018-2021
-
-**Highlights**
+**Technical University of Denmark** (2018-2021)
 
 <details>
   <summary><strong>01227 - Graph theory</strong></summary>
@@ -80,9 +72,7 @@ Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
 
 ## <a>Certifications <a>
 
-**ISO 21500 Certified**
-
-2019
+**ISO 21500 Certified** (2019)
 
 Project Management certification. [Diploma](./PMdiploma.html).
 
