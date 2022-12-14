@@ -32,7 +32,7 @@ As an intermediate result a [poster](./NSE_Poster_linear.html) on the work for t
 > Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
 > 
 > **Highlights**
-> <details>
+> <details open>
   <summary>02689 - Advanced Numerical Methods for Differential Equations</summary>
   <p>
   Grade: 12 (A)
