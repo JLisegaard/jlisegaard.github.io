@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to the profile
+# Profile
 
 Stay tuned for more info.
 

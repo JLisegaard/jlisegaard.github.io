@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## Projects
+# Projects
 
 
 * * *
 
-# Master Thesis
+## Master Thesis
 
 **Title: Development of a Spectral Element Method for simlation of water waves using Incompressible Navier-Stokes Equations**
 
