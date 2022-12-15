@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to the profile
+## Welcome to the projects
 
 Stay tuned for more info.
 
