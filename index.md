@@ -86,15 +86,13 @@ Project Management certification. [Diploma](./PMdiploma.html).
 
 * * *
 
-# Work experience
+# Professional Experience
 
 ## <a>Silicom Denmark A/S | FPGA Solutions<a>
 
-**Student Assistant for Project Management**
+**Student Assistant for Project Management** (2019-)
 
-2019-
-
-Maintaining databases. Quality Control and Compliance Documentation. Assisting new product introductions and continuing development of existing products. Data analysis tasks. Production and test of FPGA cards.
+Maintaining databases. Quality Control and Compliance Documentation. Assisting new product introductions and continuing development of existing products. Data analysis tasks. Alignment and optimization of processes. Production and test of FPGA cards.
 
 [Reccommendation from Silicom Denmark A/S](./Silicom.html).
 * * *
