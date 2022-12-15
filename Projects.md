@@ -17,6 +17,18 @@ As an intermediate result a [poster](./NSE_Poster_linear.html) on the work for t
 
 * * *
 
+## Bachelor Thesis
+
+**Title: Oscillation modes of an offshore wind turbine monopile**
+
+This project concerned the investigation of the dynamics of an offshore wind turbine monoopile. 
+
+Below is shown a partially damped monopile. 
+
+<img src="./image63.gif" />
+
+* * *
+
 
 Stay tuned for more projects.
 
