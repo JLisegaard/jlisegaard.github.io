@@ -31,7 +31,7 @@ As an intermediate result a [poster](./NSE_Poster_linear.html) on the work for t
 Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
 
 <details>
-  <summary><strong>Highlights</strong></summary>
+  <summary><strong><u>Highlights</u></strong></summary>
   <details>
     <summary><strong>02689 - Advanced Numerical Methods for Differential Equations</strong></summary>
     <p> Grade: 12 (A) </p>
@@ -59,7 +59,7 @@ Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
 **Technical University of Denmark** (2018-2021)
 
 <details>
-  <summary><strong>Highlights</strong></summary>
+  <summary><strong><u>Highlights</u></strong></summary>
   <details>
     <summary><strong>01227 - Graph theory</strong></summary>
     <p> Grade: 12 (A) </p>
@@ -78,9 +78,9 @@ Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
 ## <a>Certifications <a>
 
 <details>
-  <summary><strong>ISO 21500 Certified</strong> (2019)</summary>
+  <summary><strong><u>ISO 21500 Certified</u></strong> (2019)</summary>
 
-  Project Management certification. [Diploma](./PMdiploma.html).
+  Project Management certification. <a href="./PMdiploma.html">Diploma</a>.
 
   <details>
     <summary><strong>42430 - Project Management</strong></summary>
