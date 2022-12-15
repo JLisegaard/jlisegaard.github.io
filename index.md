@@ -59,29 +59,34 @@ Focus: Numerical Simulation of Differential Equations & Optimization Techniques.
 **Technical University of Denmark** (2018-2021)
 
 <details>
-  <summary><strong>01227 - Graph theory</strong></summary>
-  <p> Grade: 12 (A) </p>
-  <p> Introduction to results and proof techniques in graph theory, in particular in connection with networks algorithms. </p>
-</details>
+  <summary><strong>Highlights</strong></summary>
+  <details>
+    <summary><strong>01227 - Graph theory</strong></summary>
+    <p> Grade: 12 (A) </p>
+    <p> Introduction to results and proof techniques in graph theory, in particular in connection with networks algorithms. </p>
+  </details>
 
-<details>
-  <summary><strong>02526 - Mathematical modeling</strong></summary>
-  <p> Grade: 12 (A) </p>
-  <p> Setting up mathematical models, carry out simulations and calculations on these models, and perform a critical analysis and report the obtained results. </p>
+  <details>
+    <summary><strong>02526 - Mathematical modeling</strong></summary>
+    <p> Grade: 12 (A) </p>
+    <p> Setting up mathematical models, carry out simulations and calculations on these models, and perform a critical analysis and report the obtained results. </p>
+  </details>
 </details>
 
 <p>  </p>
 
 ## <a>Certifications <a>
 
-**ISO 21500 Certified** (2019)
-
-Project Management certification. [Diploma](./PMdiploma.html).
-
 <details>
-  <summary><strong>42430 - Project Management</strong></summary>
-  <p> Grade: 12 (A) </p>
-  <p> Prepares one for active participattion in projects and critically and appropriately apply project management tools, concepts, models and theories in practice. Opens for  the opportunity to be certified according to the international project management standard (ISO 21500). </p>
+  <summary><strong>ISO 21500 Certified</strong> (2019)</summary>
+
+  Project Management certification. [Diploma](./PMdiploma.html).
+
+  <details>
+    <summary><strong>42430 - Project Management</strong></summary>
+    <p> Grade: 12 (A) </p>
+    <p> Prepares one for active participattion in projects and critically and appropriately apply project management tools, concepts, models and theories in practice. Opens for  the opportunity to be certified according to the international project management standard (ISO 21500). </p>
+  </details>
 </details>
 
 <p>  </p>
